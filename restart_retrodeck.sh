@@ -1,4 +1,8 @@
 #!/bin/bash
+# author: ortizimo
+# date: 20250714
+# desc: to help me refresh retrodeck after uploads and changes
+
 echo "RETRODECK RELOAD!"
 program_name="retrodeck reload"
 program_path="/usr/bin/flatpak"
